@@ -54,6 +54,14 @@ body{
     
 }
 
+.topbutton:hover { 
+    border-color: rgba(170, 170, 170, 1);
+}
+
+.topbutton p:hover { 
+    color: rgba(255, 50, 50, 1);
+}
+
 
 /* ============================================================
   NAVIGATION
