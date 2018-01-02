@@ -6,4 +6,4 @@ IXD102 - Introduction to Communication Design
 Paul Rand Website
 ---------------------
 
-- **[Website](https://htmlpreview.github.io/?https://github.com/BenTurnerIxD/Rand/blob/master/index.html)** Link to the final working and finished website. 
+- **[Website](https://cdn.rawgit.com/BenTurnerIxD/Rand/2b9e996c/index.html)** Link to the final working and finished website. 
